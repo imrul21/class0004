@@ -1,0 +1,39 @@
+body{
+    background: rgb(106, 148, 150);
+}
+h1{
+    color: aqua;
+    text-align: center;
+    text-shadow: -7px 7px 7px rgb(103, 10, 209);
+    font-family: sans-serif;
+    
+}
+a{
+    text-align: left;
+}
+p{
+    font-size: medium;
+}
+hr{
+    color: black;
+}
+pre{
+    font-family: Verdana;
+    color: rgba(3, 0, 5, 0.932);
+    text-align: center;
+    font-size: large;
+}
+div{
+    text-align: center;
+}
+address{
+    font-size: large;
+    color: rgb(22, 20, 17);
+    text-align: center;
+}
+marquee{
+    font-style: italic;
+    color: aqua;
+    background-color: blueviolet;
+}
+    
